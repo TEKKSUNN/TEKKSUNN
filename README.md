@@ -10,4 +10,4 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 I'm Emmanuel Leu Tecson, currently learning full stack development from [The Odin Project](https://www.theodinproject.com/).
-I hope to finish it by April 2025 and start making money from freelancing.
+I hope to finish it by April 2025, learn the MERN stack and start making money from freelancing as soon as possible.
