@@ -14,8 +14,6 @@
  
  🌱 I’m currently learning **React, NodeJS, ExpressJS, and MongoDB**
 
- 🌱 I'm currently in high school; **grade 11 in css (computer systems servicing) strand.**
-
  </div>
  
 <div align="center"> 
